@@ -1,0 +1,10 @@
+{
+    "name": "countrynames",
+    "description": "Country Names",
+    "author": "Jago <jago84@gmail.com>",
+    "version": "1.0.0",
+    "repository": "fengyuanchen/cropperjs",
+    "main": "index.js",
+    "types": "index.d.ts",
+    "license": "MIT"
+}
