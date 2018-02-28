@@ -9,6 +9,10 @@ Via [npm](npmjs.org):
 ```shell
 npm install github:jagomf/countrynames
 ```
+If you want to install a specific version, use `semver` version tag:
+```shell
+npm install github:jagomf/countrynames#semver:^1.1.0
+```
 
 ## Supported languages
 
