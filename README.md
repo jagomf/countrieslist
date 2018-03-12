@@ -7,7 +7,7 @@ Get all **sovereign countries**' names in several languages associated to their 
 Via [npm](npmjs.org):
 
 ```shell
-npm install countrieslist
+npm install @jagomf/countrieslist
 ```
 
 ## Supported languages
@@ -24,14 +24,14 @@ npm install countrieslist
 Import some or all of the language pieces:
 
 ```javascript
-import { en, es as langES, fr as countriesFR } from 'countrieslist';
+import { en, es as langES, fr as countriesFR } from '@jagomf/countrieslist';
 
 console.log(en.SM); // 'San Marino'
 console.log(langES.NL); // 'Países Bajos'
 console.log(countriesFR['GR']); // 'Grèce'
 ```
 ```javascript
-import * as COUNTRIES from 'countrieslist';
+import * as COUNTRIES from '@jagomf/countrieslist';
 
 console.log(COUNTRIES.en.TT); // 'Trinidad and Tobago'
 console.log(COUNTRIES.es.CI); // 'Costa de Marfil'
