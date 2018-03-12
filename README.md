@@ -11,7 +11,7 @@ npm install github:jagomf/countrynames
 ```
 If you want to install a specific version, use `semver` version tag:
 ```shell
-npm install github:jagomf/countrynames#semver:^1.1.0
+npm install github:jagomf/countrynames#semver:^1.1.2
 ```
 
 ## Supported languages
