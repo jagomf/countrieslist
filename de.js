@@ -35,7 +35,7 @@ export default {
     "CD": "Kongo (DR)",
     "CF": "Zentralafrikanische Republik",
     "CG": "Kongo",
-    "DO": "Schweiz",
+    "CH": "Schweiz",
     "CI": "Elfenbeinküste",
     "CK": "Cookinseln",
     "CL": "Chile",

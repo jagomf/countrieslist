@@ -2,7 +2,7 @@
     "name": "countrynames",
     "description": "Country Names",
     "author": "Jago <jago84@gmail.com>",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "repository": "fengyuanchen/cropperjs",
     "main": "index.js",
     "types": "index.d.ts",
