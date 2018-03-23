@@ -1,4 +1,6 @@
-export default {
+import { CountryList } from './index';
+
+const de: CountryList = {
     "AD": "Andorra",
     "AE": "Vereinigte Arabische Emirate",
     "AF": "Afghanistan",
@@ -207,3 +209,5 @@ export default {
     "ZM": "Sambia",
     "ZW": "Simbabwe"
 };
+
+export default de;
