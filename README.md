@@ -1,5 +1,7 @@
 # countrieslist
 
+[![npm version](https://badge.fury.io/js/%40jagomf%2Fcountrieslist.svg)](https://badge.fury.io/js/%40jagomf%2Fcountrieslist)
+
 Get all **sovereign countries**' names in several languages associated to their [ISO 3166-1 (alpha-2)](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) code.
 
 ## Install
