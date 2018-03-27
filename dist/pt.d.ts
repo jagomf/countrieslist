@@ -1,3 +1,4 @@
-import { CountryList } from './index';
-declare const pt: CountryList;
+declare const pt: {
+    [key: string]: string;
+};
 export default pt;

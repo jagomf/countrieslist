@@ -1,6 +1,4 @@
-import { CountryList } from './index';
-
-const es: CountryList = {
+const es: { [key: string]: string } = {
     "AD": "Andorra",
     "AE": "Emiratos Árabes Unidos",
     "AF": "Afganistán",
