@@ -121,7 +121,7 @@ const it: { [key: string]: string } = {
     "MD": "Moldavia",
     "ME": "Montenegro",
     "MG": "Madagascar",
-    "MK": "Macedonia",
+    "MK": "Macedonia del Nord",
     "ML": "Mali",
     "MM": "Birmania",
     "MN": "Mongolia",

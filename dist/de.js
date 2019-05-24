@@ -121,7 +121,7 @@ const de = {
     "MD": "Moldawien",
     "ME": "Montenegro",
     "MG": "Madagaskar",
-    "MK": "Mazedonien",
+    "MK": "Nordmazedonien",
     "ML": "Mali",
     "MM": "Myanmar",
     "MN": "Mongolei",
