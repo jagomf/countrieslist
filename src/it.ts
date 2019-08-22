@@ -176,7 +176,7 @@ const it: { [key: string]: string } = {
     "ST": "São Tomé e Príncipe",
     "SV": "El Salvador",
     "SY": "Siria",
-    "SZ": "Swaziland",
+    "SZ": "Eswatini (Swaziland)",
     "TD": "Ciad",
     "TG": "Togo",
     "TH": "Thailandia",

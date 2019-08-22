@@ -176,7 +176,7 @@ const pt: { [key: string]: string } = {
     "ST": "São Tomé e Príncipe",
     "SV": "El Salvador",
     "SY": "Síria",
-    "SZ": "Suazilândia",
+    "SZ": "Essuatíni (Suazilândia)",
     "TD": "Chade",
     "TG": "Togo",
     "TH": "Tailândia",
