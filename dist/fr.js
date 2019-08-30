@@ -176,7 +176,7 @@ const fr = {
     "ST": "Sao Tomé et Principe",
     "SV": "El Salvador",
     "SY": "Syrie",
-    "SZ": "Swaziland",
+    "SZ": "Eswatini (Swaziland)",
     "TD": "Tchad",
     "TG": "Togo",
     "TH": "Thaïlande",
