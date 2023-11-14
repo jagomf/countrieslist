@@ -42,7 +42,7 @@ const fr: { [key: string]: string } = {
     "CU": "Cuba",
     "CV": "Cap-Vert",
     "CY": "Chypre",
-    "CZ": "République tchèque",
+    "CZ": "Tchéquie",
     "DE": "Allemagne",
     "DJ": "Djibouti",
     "DK": "Danemark",

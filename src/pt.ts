@@ -42,7 +42,7 @@ const pt: { [key: string]: string } = {
     "CU": "Cuba",
     "CV": "Cabo Verde",
     "CY": "Chipre",
-    "CZ": "República Checa",
+    "CZ": "Chéquia",
     "DE": "Alemanha",
     "DJ": "Djibouti",
     "DK": "Dinamarca",
