@@ -1,0 +1,1 @@
+Please check https://github.com/jagomf/countrieslist/releases

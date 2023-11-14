@@ -19,7 +19,6 @@ const es: { [key: string]: string } = {
     "BH": "Baréin",
     "BI": "Burundi",
     "BJ": "Benín",
-    "BM": "Bermudas",
     "BN": "Brunéi",
     "BO": "Bolivia",
     "BR": "Brasil",
