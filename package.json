@@ -8,21 +8,23 @@
         "iso-3166-1"
     ],
     "author": "Jago <jago@lunadevel.com>",
-    "version": "3.0.1",
+    "version": "4.0.0",
+    "type": "module",
     "homepage": "https://github.com/jagomf/countrieslist",
     "repository": "github:jagomf/countrieslist",
-    "main": "./dist/index.js",
+    "main": "./dist/bundle.js",
     "types": "./dist/index.d.ts",
     "scripts": {
-        "dist": "tsc && node minify",
+        "dist": "rollup -c",
         "dist:publish": "npm run dist && npm publish"
     },
     "files": [
         "dist"
     ],
     "devDependencies": {
-        "terser": "^5.5.1",
-        "typescript": "^2.7.0"
+        "@rollup/plugin-terser": "^0.4.4",
+        "@rollup/plugin-typescript": "^12.1.2",
+        "rollup": "^2.79.2"
     },
     "license": "MIT"
 }

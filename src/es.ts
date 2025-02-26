@@ -1,4 +1,6 @@
-const es: { [key: string]: string } = {
+import { type CountryCode } from "./countryCodes";
+
+const es: { [key in CountryCode]: string } = {
     "AD": "Andorra",
     "AE": "Emiratos Árabes Unidos",
     "AF": "Afganistán",

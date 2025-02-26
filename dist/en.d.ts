@@ -1,4 +1,5 @@
+import { type CountryCode } from "./countryCodes";
 declare const en: {
-    [key: string]: string;
+    [key in CountryCode]: string;
 };
 export default en;
