@@ -143,6 +143,7 @@ export type CountryCode =
 "PK" |
 "PL" |
 "PR" |
+"PS" |
 "PT" |
 "PW" |
 "PY" |

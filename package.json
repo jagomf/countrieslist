@@ -8,7 +8,7 @@
         "iso-3166-1"
     ],
     "author": "Jago <jago@lunadevel.com>",
-    "version": "4.0.0",
+    "version": "4.1.0",
     "type": "module",
     "homepage": "https://github.com/jagomf/countrieslist",
     "repository": "github:jagomf/countrieslist",

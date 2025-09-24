@@ -145,6 +145,7 @@ const it: { [key in CountryCode]: string } = {
     "PK": "Pakistan",
     "PL": "Polonia",
     "PR": "Porto Rico",
+    "PS": "Palestina",
     "PT": "Portogallo",
     "PW": "Palau",
     "PY": "Paraguay",
